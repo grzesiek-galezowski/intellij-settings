@@ -101,6 +101,27 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeDependencyConfig">
+    <option name="MODULE_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="PACKAGE_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="CLASS_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="CLASS_GRAPH_EXCEPTION_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_TEST_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_EXCEPTION_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_DEPENDENCY_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_DEPENDENT_VISIBILITY" value="true" />
+    <option name="CLASS_NEIGHBOR_GRAPH_CROSSLINK_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_DEPENDENCY_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_DEPENDENT_VISIBILITY" value="true" />
+    <option name="PACKAGE_NEIGHBOR_GRAPH_CROSSLINK_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_LIBRARY_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_DEPENDENCY_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_DEPENDENT_VISIBILITY" value="true" />
+    <option name="MODULE_NEIGHBOR_GRAPH_CROSSLINK_VISIBILITY" value="true" />
+    <option name="CALCULATE_METRICS_CYCLES" value="true" />
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
